@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0292/g/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 毗柰耶質疑編
+  edition:
+    short: g
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/G/G104/G104n2277.xml
+    old_id: G104n2277
+hash: sha256:ae843a7ad5f846be1af5486ce4d59ea0c72c5bfa423e5cfe2e036679378a7cea

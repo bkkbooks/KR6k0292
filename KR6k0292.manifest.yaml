@@ -1,0 +1,36 @@
+canonical_identifier: bkk:krp/KR6k0292/v1
+canonical_location: https://kanripo.org/bkk/KR6k0292/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 毗柰耶質疑編
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/G/G104/G104n2277.xml
+    old_id: G104n2277
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0292_000.yaml, hash: 'sha256:ae843a7ad5f846be1af5486ce4d59ea0c72c5bfa423e5cfe2e036679378a7cea'}
+  - {seq: 1, filename: KR6k0292_001.yaml, hash: 'sha256:18d471b69405c3fecd8429e3b750db4a15328b2e068c5c478201fe2bce8b2a63'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6k0292_001.markers.yaml, hash: 'sha256:d12dd1875833d1a2f3ff2f6f46a92c3e2c85a0fbe6291e0ef4c052784a4d28f8'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0292_G_001-juan-start
+    span:
+    - body
+    - 0
+    - 2449
+  label: 毗柰耶質疑編
+  type: juan
+  level: 1
+hash: sha256:aa021a7a499b7fe615e991f98d2025629034b209b18a2e2850d18c3fae9ceb7c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: G
