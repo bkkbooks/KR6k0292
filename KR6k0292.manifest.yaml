@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6k0292/v1
 canonical_location: https://kanripo.org/bkk/KR6k0292/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 毗柰耶質疑編
   source:
@@ -14,10 +14,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6k0292_000.yaml, hash: 'sha256:ae843a7ad5f846be1af5486ce4d59ea0c72c5bfa423e5cfe2e036679378a7cea'}
-  - {seq: 1, filename: KR6k0292_001.yaml, hash: 'sha256:3caa1bd457f4847b5754e75af6d3f1449ac12497a699132105d1fc1c6962010a'}
+  - {seq: 1, filename: KR6k0292_001.yaml, hash: 'sha256:70166c9c8e8e6ae5020b0babef819026c801c05dcf35a69258a8b258a7c6df29'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6k0292_000.markers.yaml, hash: 'sha256:7dd0fc0d71057d9619a90e30991a600206eaa0d9404f5dfb3d81a821c7bb523d'}
-  - {seq: 1, role: markers, filename: assets/KR6k0292_001.markers.yaml, hash: 'sha256:ad0eb82dfec95fbc0532e8fc98ee0594409bb77f834acec6f0a93a7e2d2751cc'}
+  - {seq: 1, role: markers, filename: assets/KR6k0292_001.markers.yaml, hash: 'sha256:89892ff1e19039e10f494e0166474877f7d59fee62099cec3a78959ae5ee14c4'}
 table_of_contents:
 - ref:
     seq: 1
@@ -29,6 +29,9 @@ table_of_contents:
   label: 毗柰耶質疑編
   type: juan
   level: 1
-hash: sha256:ff24b3ae391119e5fe75d8c9c483da429510ec8292a76328cd99414499ada995
+hash: sha256:e2b72d7f57790a452f5d46a20d05c05f4b3a0cf4032ff44a7eb2ba440684bf44
 editions:
 - short: G
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
